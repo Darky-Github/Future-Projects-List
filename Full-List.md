@@ -1,0 +1,34 @@
+- File manager
+- Task manager
+- Password Manager
+- Web Browser
+- Office Suite
+- PDF Reader
+- Calendar
+- Code Editor
+- Text Editor
+- Version Control System
+- Command-Line App
+- Media Player
+- Image Viewer
+- Image Editor
+- Video Editor
+- Audio Player
+- ScreenShot Tool
+- Text-To-Speech Tool
+- Designing Tools
+- File Compression Tools
+- Screen Recorder
+- Screen Reader
+- Speech-To-Text
+- Magnifying Tool
+- Clipboard Manager
+- Calculator
+- Camera App
+- Clock App
+- Alarm Clock App
+- Notes App
+- Voice Recorder
+
+**There are even more projects but these are the ones I will be working on from now.**
+_Note: I may make unrelated projects_
